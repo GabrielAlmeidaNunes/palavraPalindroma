@@ -6,6 +6,7 @@ export const Botao = styled.button `
     padding:5px;
     border-radius: 10px;
     
+    
 
     &:hover{
         cursor: pointer;

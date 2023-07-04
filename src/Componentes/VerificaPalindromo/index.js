@@ -14,6 +14,11 @@ const PalindromoFormulario = styled.form `
  row-gap:1em;
  border-radius:12px;
  width:100%;
+
+ @media (max-width:500px){
+    width:88%
+ }
+ 
 `
 
 const DivRisco = styled.div `
